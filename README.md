@@ -24,9 +24,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shika-Dev&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shika-Dev&theme=radical" width="47%" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Shika-Dev&show_icons=true&theme=radical" width="60%" /> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shika-Dev&layout=compact&theme=radical" width="60%" /> 
+</p>
+<p align="center"> 
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg" alt="snake gif" /> 
 </p>
 
 ---
