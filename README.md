@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shika-Dev&layout=compact&theme=radical" width="60%" /> 
 </p>
 <p align="center"> 
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg" alt="snake gif" /> 
+  <img src="https://github.com/Shika-Dev/Shika-Dev/raw/output/github-contribution-grid-snake.svg" alt="snake gif" /> 
 </p>
 
 ---
